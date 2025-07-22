@@ -131,6 +131,8 @@ GOOGLE_API_KEY=your_google_api_key_here
 - Do I need a passport to travel from Kenya to Uganda?
 
 ---
+## 🖼️ Screenshot  `sample request ` 
+![Samplle Request](assets/sample_request.png)
 
 ##  Technical Assessment Declaration
 
