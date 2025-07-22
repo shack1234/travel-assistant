@@ -100,6 +100,10 @@ npm run dev
 ```
 
 > Visit `http://localhost:3000` in your browser.
+> 
+## 🖼️ Screenshot  `http://localhost:3000` 
+
+![Frontend Landing Page](assets/frontend_landing.png)
 
 ---
 
