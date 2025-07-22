@@ -101,6 +101,7 @@ npm install
 # Start development server
 npm run dev
 ```
+![Starting fronted](assets/start_fronted.png)
 
 > Visit `http://localhost:3000` in your browser.
 > 
