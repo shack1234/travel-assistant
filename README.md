@@ -80,7 +80,10 @@ cp .env.template .env
 
 # Start the FastAPI server
 uvicorn app.main:app --reload
+
 ```
+![Starting backend](assets/start_backend.png)
+
 
 > Visit `http://localhost:8000/docs` for Swagger API docs.
 
