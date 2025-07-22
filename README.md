@@ -31,7 +31,6 @@ travel-assistant/
 │   │   ├──  main.py
 │   │   ├──  list_models.py # to check best models to use.
 │   │   └── __init__.py
-│   ├── main.py
 │   ├── .env.template
 │   ├── requirements.txt
 │ 
